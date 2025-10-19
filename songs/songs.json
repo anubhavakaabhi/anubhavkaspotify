@@ -1,0 +1,26 @@
+{
+  "albums": [
+    {
+      "folder": "anubhav",
+      "title": "anubhav ke songs",
+      "description": "Uplifting songs for your day",
+      "cover": "cover.jpg",
+      "songs": [
+        "HIGH ON YOU - Jind Universe _ Latest Punjabi Love Song 2024.mp3",
+        "Naam Chale (Official Video) Vikram Sarkar ｜ New Haryanvi Songs Haryanavi 2025 ｜Latest Haryanvi Songs.mp3",
+        "ytmp3free.cc_afsos-anuv-jain-ft-ap-dhillon-lyrics-with-translation-new-song-youtubemp3free.org.mp3"
+      ]
+    },
+    {
+      "folder": "happy",
+      "title": "happy ke songs",
+      "description": "Lo-fi and smooth vibes",
+      "cover": "cover.jpg",
+      "songs": [
+        "Afusic - Pal Pal (Official Music Video) Prod. @AliSoomroMusic.mp3",
+        "Anuv Jain - JO TUM MERE HO (Official Video).mp3",
+        "For A Reason (Official Video) Karan Aujla ｜ Tania  ｜ Ikky ｜ Latest Punjabi Songs 2025.mp3"
+      ]
+    }
+  ]
+}

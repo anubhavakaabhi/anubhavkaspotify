@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.flex{
+    display: flex;
+}
+
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+.align-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.invert{
+    filter: invert(1);
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: #121212;
+}
+
+.rounded{
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+.p-1 {
+    padding: 10px;
+}
+/* For Chrome, Edge, Safari */
+::-webkit-scrollbar {
+  width: 10px; /* scrollbar width */
+}
+
+::-webkit-scrollbar-track {
+  background: #1a1a1a; /* track color */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #444; /* scrollbar color */
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #666; /* scrollbar color on hover */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin; /* auto, thin, or none */
+  scrollbar-color: #444 #1a1a1a; /* thumb color, track color */
+}
