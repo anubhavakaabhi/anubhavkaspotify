@@ -2,19 +2,53 @@
   "albums": [
     {
       "folder": "anubhav",
-      "title": "anubhav ke songs",
-      "description": "Uplifting songs for your day",
+      "title": "Anubhav ke song",
+      "description": "Collection of songs by Anubhav",
       "cover": "cover.jpg",
       "songs": [
         "HIGH ON YOU - Jind Universe _ Latest Punjabi Love Song 2024.mp3",
         "Naam Chale (Official Video) Vikram Sarkar ｜ New Haryanvi Songs Haryanavi 2025 ｜Latest Haryanvi Songs.mp3",
-        "ytmp3free.cc_afsos-anuv-jain-ft-ap-dhillon-lyrics-with-translation-new-song-youtubemp3free.org.mp3"
+        "ytmp3free.cc_afsos-anuv-jain-ft-ap-dhillon-lyrics-with-translation-new-song-youtubemp3free.org.mp3",
+        "ytmp3free.cc_ghode-3-official-video-masoom-sharma-girik-aman-new-haryanvi-song-2025-sonotek-music-youtubemp3free.org.mp3",
+        "ytmp3free.cc_green-flag-official-video-vikram-sarkar-new-haryanvi-songs-haryanavi-2025-latest-haryanvi-songs-youtubemp3free.org.mp3",
+        "ytmp3free.cc_maanu-jhol-acoustic-annural-khalid-abdullah-siddiqui-asfand-youtubemp3free.org.mp3"
+      ]
+    },
+    {
+      "folder": "Gym paglu",
+      "title": "Gym paglu",
+      "description": "No description available",
+      "cover": "cover.jpg",
+      "songs": [
+        "52 Bars  (Official Video) Karan Aujla _ Ikky _ Four You EP _ First Song _ Latest Punjabi Songs 2023.mp3",
+        "AP Dhillon & Shinda Kahlon - STFU (Official Audio).mp3",
+        "AP Dhillon - Old Money (Official Audio).mp3",
+        "Black Ride (Official Music Video) Dhanda Nyoliwala _ Hammy Muzic.mp3",
+        "COURTSIDE (OFFICIAL MUSIC VIDEO) KARAN AUJLA  _ LATEST PUNJABI SONGS 2025.mp3",
+        "Dhanda Nyoliwala - Knife Brows (Official Music Video).mp3",
+        "Dhanda Nyoliwala - Russian Bandana (Music Video) _ Deepesh Goyal _ VYRL Haryanvi.mp3",
+        "Dhanda Nyoliwala - Tension (Official Music Video).mp3",
+        "Gaadi 150 Bhja Rakhi (Lyrical) Vikram Sarkar _ New Haryanvi Songs Haryanavi 2025 _ Haryanvi Songs.mp3",
+        "Ghode 3 (Official Video) Masoom Sharma _ Girik Aman _ New Haryanvi Song 2025 _ Sonotek Music.mp3",
+        "GOING HIGH (Official Video) - JP47 _ MAD MIX _ NEW PUNJABI SONG 2025 _ LATEST PUNJABI SONG 2025.mp3",
+        "I REALLY DO (MUSIC VIDEO) KARAN AUJLA_ IKKY _ Latest Punjabi Songs 2025.mp3",
+        "Krish Rao - Cash Cash ( Music Video ) _ Prod. by Jai _ Deepesh Goyal _ Gully Gang Records.mp3",
+        "Maruti (Official Video) Dhanda Nyoliwala _ Miki Malang _ Ron Likhari.mp3",
+        "MF GABHRU (Official Video) KARAN AUJLA _ Latest Punjabi Songs 2025.mp3",
+        "Naam Chale (Official Video) Vikram Sarkar ｜ New Haryanvi Songs Haryanavi 2025 ｜Latest Haryanvi Songs.mp3",
+        "No Guts No Glory - ADDY NAGAR _ Official Video _ Gurjar Mahotsav 2024.mp3",
+        "Raat Ke Shikari (Full Video) Masoom Sharma _ Sweta Chauhan _ Yash _ New Haryanvi Song 2025 _ Sonotek.mp3",
+        "Shubh - Supreme (Official Music Video).mp3",
+        "Sumit Parta - Ghane Gande (Official Music Video) _ Real Music.mp3",
+        "Sumit Parta - Rail (Official Music Video) _ Real Music.mp3",
+        "WARNING (Official Video) _ Masoom Sharma _ Malika Kaliraman _ Haryanvi Songs Haryanavi 2025.mp3",
+        "ytmp3free.cc_green-flag-official-video-vikram-sarkar-new-haryanvi-songs-haryanavi-2025-latest-haryanvi-songs-youtubemp3free.org.mp3"
       ]
     },
     {
       "folder": "happy",
-      "title": "happy ke songs",
-      "description": "Lo-fi and smooth vibes",
+      "title": "happy ke song",
+      "description": "Collection of happy songs by Anubhav",
       "cover": "cover.jpg",
       "songs": [
         "Afusic - Pal Pal (Official Music Video) Prod. @AliSoomroMusic.mp3",
